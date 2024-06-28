@@ -1,12 +1,11 @@
-FECHA 27/06/24
+FECHA 27/06/24 "1era Reunión Virtual"
 
 Posibles Líderes
 Benjamin
 Ariel
 
 NOMBRE DEL EQUIPO
-Siguiente Reunión
-Diferentes opciones
+Siguiente Reunión- Dar diferentes opciones
 
 TEMAS
 TEMPERATURA-FABIAN
@@ -16,7 +15,7 @@ HUMEDAD-BENJA
 PRESION ATMOSFÉRICA-DAZA
 CONCENTRACIÓN OXIGENO-DAVID
 
-REQUERIMIENTOS MINIMOS DEL SENSOR
+REQUERIMIENTOS MINIMOS A INVESTIGAR DEL SENSOR
 parámetros de sensores: 
 1. peso
 2. precio
