@@ -1,11 +1,14 @@
 FECHA 27/06/24 "1era Reunión Virtual"
 
+
 Posibles Líderes
 Benjamin
 Ariel
 
+
 NOMBRE DEL EQUIPO
-Siguiente Reunión- Dar diferentes opciones
+Siguiente Reunión, dar diferentes opciones
+
 
 TEMAS
 TEMPERATURA-FABIAN
