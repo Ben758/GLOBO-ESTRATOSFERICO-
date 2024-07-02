@@ -27,3 +27,11 @@ parámetros de sensores:
 5. interfaz con microcontrolador o PIC
 6. intervalos de funcionamiento (presión, temperatura, humedad, ...)
 7. rango de medición
+
+1/7/2024 Investigar aspectos de la estratosfera para la aplicación adecuada de los sensores
+
+Entregarle a Rafa información sobre la interfaz entre sensor y microcontrolador
+
+Definir respecto a las condiciones de la estratosfera los sensores a utilizar
+
+Reunión presencial jueves 4/7/2024 con la utilización de sensores.
